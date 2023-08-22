@@ -1,1 +1,1 @@
-# CustomCursor
+Custom Cursor was created to allow drag and drop using a custom image cursor. I needed to drop a coin for a 3 card poker game I wanted to show the chip image being dragged. When the user left clicks on a draggable object the form shos that image being dragged.# CustomCursor
